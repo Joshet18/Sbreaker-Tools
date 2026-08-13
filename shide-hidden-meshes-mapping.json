@@ -1,0 +1,534 @@
+{
+    "MI_ef_Ch006_tougue": [
+        {
+            "name": "MII_Ch006_Default_00_tuyutongue_GPTongue_ShideTongue",
+            "index": 4
+        }
+    ],
+    "MII_Ch007_Default_00_eyebrowsB_D": [
+        {
+            "name": "MII_Ch007_Default_00_eyebrowsB_ShideA",
+            "index": 2
+        }
+    ],
+    "MII_Ch007_Default_00_eyebrowsA_D": [
+        {
+            "name": "MII_Ch007_Default_00_eyebrowsA_HideA",
+            "index": 5
+        }
+    ],
+    "MII_Ch011_Default_00_eye2_D": [
+        {
+            "name": "MII_Ch011_Default_00_eye2_ShideA",
+            "index": 5
+        }
+    ],
+    "MII_chara_E01_WPO": [
+        {
+            "name": "MII_Ch011_Default_Dissolve_ShideA",
+            "index": 6
+        }
+    ],
+    "MII_Ch011_Default_00_face_D": [
+        {
+            "name": "MII_Ch011_Default_00_face_hideA",
+            "index": 7
+        }
+    ],
+    "MII_Ch013_Default_00_hair_D": [
+        {
+            "name": "MII_Ch013_Default_00_hairA_HideA",
+            "index": 4
+        },
+        {
+            "name": "MII_Ch013_Default_00_hairB_ShideA",
+            "index": 9
+        },
+        {
+            "name": "MII_Ch013_FmA1_00_hairA_HideA",
+            "index": 0
+        }
+    ],
+    "MII_Ch013_Default_00_scarf_D": [
+        {
+            "name": "MII_Ch013_Default_00_scarfRB_ShideC",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch013_Default_00_scarfLA_ShideB",
+            "index": 8
+        }
+    ],
+    "MII_Ch018_Default_00_parts_D": [
+        {
+            "name": "MII_Ch018_Default_00_tubeL_A_HideA",
+            "index": 7
+        },
+        {
+            "name": "MII_Ch018_Default_00_tubeR_C_HideF",
+            "index": 8
+        },
+        {
+            "name": "MII_Ch018_Default_00_tubeR_B_HideE",
+            "index": 9
+        },
+        {
+            "name": "MII_Ch018_Default_00_tubeR_A_HideD",
+            "index": 10
+        },
+        {
+            "name": "MII_Ch018_Default_00_tubeL_B_HideB",
+            "index": 11
+        },
+        {
+            "name": "MII_Ch018_Default_00_tubeL_C_HideC",
+            "index": 13
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideA",
+            "index": 14
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideB",
+            "index": 15
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideC",
+            "index": 16
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideD",
+            "index": 17
+        }
+    ],
+    "MII_Ch024_Default_00_eye_D": [
+        {
+            "name": "MII_Ch024_Default_00_eyehighlight_HideA",
+            "index": 0
+        },
+        {
+            "name": "MII_Ch024_Default_00_eye_SHideA",
+            "index": 2
+        },
+        {
+            "name": "MII_Ch024_Default_00_eye_HideA",
+            "index": 6
+        }
+    ],
+    "MII_Ch024_Default_00_mant_D": [
+        {
+            "name": "MII_Ch024_Default_00_mant_HideB",
+            "index": 9
+        }
+    ],
+    "MII_Ch026_Default_00_skin_D": [
+        {
+            "name": "MII_Ch026_Default_00_skin_hideC",
+            "index": 5
+        },
+        {
+            "name": "MII_Ch026_Default_00_skin_hideA",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch026_Default_00_skin_hideB",
+            "index": 7
+        }
+    ],
+    "MII_Ch026_Default_00_wp_D": [
+        {
+            "name": "MII_Ch026_Default_00_wp_ShideB",
+            "index": 12
+        },
+        {
+            "name": "MII_Ch026_Default_00_wp_ShideA",
+            "index": 13
+        }
+    ],
+    "MII_Ch034_Default_00_skin_D": [
+        {
+            "name": "MII_Ch034_Default_00_handL_ShideB",
+            "index": 0
+        },
+        {
+            "name": "MII_Ch034_Default_00_handR_ShideA",
+            "index": 3
+        }
+    ],
+    "MII_Ch034_Default_00_glove_D": [
+        {
+            "name": "MII_Ch034_Default_00_gloveR_HideA",
+            "index": 1
+        },
+        {
+            "name": "MII_Ch034_Default_00_gloveL_HideB",
+            "index": 5
+        }
+    ],
+    "MII_Ch037_Default_Weapon_D": [
+        {
+            "name": "MII_Ch037_Default_00_weapon_shideB",
+            "index": 1
+        },
+        {
+            "name": "MII_Ch037_Default_00_weapon_shideA",
+            "index": 3
+        },
+        {
+            "name": "MII_Ch037_Default_00_weapon_shideC",
+            "index": 5
+        }
+    ],
+    "MII_Ch038_Default_00_hatmask_D": [
+        {
+            "name": "MII_Ch038_Default_00_rightcane_HideA",
+            "index": 5
+        },
+        {
+            "name": "MII_Ch038_EqF1_00_rightcane_hideA",
+            "index": 10
+        }
+    ],
+    "MII_Ch038_Default_00_ball_D": [
+        {
+            "name": "MII_Ch038_Default_00_ball_ShideD",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch038_Default_00_ball_ShideC",
+            "index": 7
+        },
+        {
+            "name": "MII_Ch038_Default_00_ball_ShideB",
+            "index": 8
+        },
+        {
+            "name": "MII_Ch038_Default_00_ball_ShideE",
+            "index": 9
+        }
+    ],
+    "MII_Ch038_Default_00_gun_D": [
+        {
+            "name": "MII_Ch038_Default_00_gun_ShideA",
+            "index": 10
+        }
+    ],
+    "MII_Ch043_Default_00_wing_D": [
+        {
+            "name": "MII_Ch043_Default_00_wingSword_ShideA",
+            "index": 7
+        }
+    ],
+    "MII_Ch101_Default_00_face_D": [
+        {
+            "name": "MII_Ch101_Default_00_face_B_HideB",
+            "index": 1
+        },
+        {
+            "name": "MII_Ch101_Default_00_face_A_HideA",
+            "index": 5
+        }
+    ],
+    "MI_ef_Ch103_eye_00": [
+        {
+            "name": "MII_Ch103_Default_00_eye_L_hideC",
+            "index": 0
+        },
+        {
+            "name": "MII_Ch103_Default_00_eye_R_hideD",
+            "index": 5
+        }
+    ],
+    "MII_Ch105_Default_scarf_D": [
+        {
+            "name": "MII_Ch105_Default_00_scarfLA_ShideA",
+            "index": 7
+        },
+        {
+            "name": "MII_Ch105_Default_00_scarfRB_ShideB",
+            "index": 8
+        }
+    ],
+    "MII_Ch108_Default_00_hair_D": [
+        {
+            "name": "MII_Ch108_Default_00_hairA_HideA",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch108_Default_00_hairB_ShideA",
+            "index": 7
+        }
+    ],
+    "MII_Ch115_Default_00_skin_D": [
+        {
+            "name": "MII_Ch115_Default_00_Rarm_HideA",
+            "index": 2
+        }
+    ],
+    "MII_Ch501_Default_00_hair_D": [
+        {
+            "name": "MII_Ch501_Default_00_hair1_HideA",
+            "index": 4
+        },
+        {
+            "name": "MII_Ch501_Default_00_hair2_SHideA",
+            "index": 5
+        }
+    ],
+    "MII_Ch503_Default_00_hair_D": [
+        {
+            "name": "MII_Ch503_Default_00_hair2_SHideA",
+            "index": 4
+        },
+        {
+            "name": "MII_Ch503_Default_00_hair1_HideA",
+            "index": 5
+        }
+    ],
+    "MII_Ch013_EqD1_00_scarf_D": [
+        {
+            "name": "MII_Ch013_EqD1_00_scarfRB_ShideC",
+            "index": 0
+        },
+        {
+            "name": "MII_Ch013_EqD1_00_scarfLA_ShideB",
+            "index": 2
+        }
+    ],
+    "MII_Ch013_FmA1_00_scarf_D": [
+        {
+            "name": "MII_Ch013_FmA1_00_scarfRB_ShideC",
+            "index": 9
+        },
+        {
+            "name": "MII_Ch013_FmA1_00_scarfLA_ShideB",
+            "index": 10
+        }
+    ],
+    "MII_Ch013_SpC1_00_scarf_D": [
+        {
+            "name": "MII_Ch013_SpC1_00_scarfLA_ShideB",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch013_SpC1_00_scarfRB_ShideB",
+            "index": 9
+        },
+        {
+            "name": "MII_Ch013_SpC1_00_scarfRB_ShideC",
+            "index": 10
+        }
+    ],
+    "MII_Ch013_SpB1_00_scarf_D": [
+        {
+            "name": "MII_Ch013_SpB1_00_scarfLA_ShideB",
+            "index": 7
+        },
+        {
+            "name": "MII_Ch013_SpB1_00_scarfRB_ShideC",
+            "index": 8
+        }
+    ],
+    "MII_Ch013_SpA1_00_scarf_D": [
+        {
+            "name": "MII_Ch013_SpA1_00_scarfRB_ShideC",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch013_SpA1_00_scarfLA_ShideB",
+            "index": 9
+        }
+    ],
+    "MII_Ch018_Default_00_weaponA_D": [
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideA",
+            "index": 6
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideC",
+            "index": 7
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideB",
+            "index": 9
+        },
+        {
+            "name": "MII_Ch018_Default_00_weapon_SHideD",
+            "index": 10
+        }
+    ],
+    "MII_Ch026_FmA1_00_skin_D": [
+        {
+            "name": "MII_Ch026_FmA1_00_skin_hideA",
+            "index": 2
+        },
+        {
+            "name": "MII_Ch026_FmA1_00_skin_hideB",
+            "index": 3
+        }
+    ],
+    "MII_Ch026_FmA1_00_body_D": [
+        {
+            "name": "MII_Ch026_FmA1_00_shoes_hideC",
+            "index": 4
+        }
+    ],
+    "MII_Ch026_OrD1_00_skin_D": [
+        {
+            "name": "MII_Ch026_OrD1_00_skin_hideA",
+            "index": 2
+        },
+        {
+            "name": "MII_Ch026_OrD1_00_skin_hideB",
+            "index": 3
+        }
+    ],
+    "MII_Ch026_OrD1_00_body_D": [
+        {
+            "name": "MII_Ch026_OrD1_00_shoes_hideC",
+            "index": 4
+        }
+    ],
+    "MII_Ch026_SpE1_00_skin_D": [
+        {
+            "name": "MII_Ch026_SpE1_00_skin_hideA",
+            "index": 2
+        },
+        {
+            "name": "MII_Ch026_SpE1_00_skin_hideB",
+            "index": 3
+        }
+    ],
+    "MII_Ch026_SpE1_00_body_D": [
+        {
+            "name": "MII_Ch026_SpE1_00_shoes_hideC",
+            "index": 4
+        }
+    ],
+    "MII_Ch026_Default_00_wp_VC_D": [
+        {
+            "name": "MII_Ch026_Default_00_wp_ShideA",
+            "index": 9
+        }
+    ],
+    "MII_Ch026_SpI1_00_body_D": [
+        {
+            "name": "MII_Ch026_SpI1_00_body_hideB",
+            "index": 2
+        },
+        {
+            "name": "MII_Ch026_SpI1_00_body_hideA",
+            "index": 3
+        },
+        {
+            "name": "MII_Ch026_SpI1_00_body_hideC",
+            "index": 4
+        }
+    ],
+    "MII_Ch034_FmA1_00_skin_D": [
+        {
+            "name": "MII_Ch034_Default_00_handL_ShideB",
+            "index": 1
+        },
+        {
+            "name": "MII_Ch034_Default_00_handR_ShideA",
+            "index": 3
+        }
+    ],
+    "MII_Ch034_OrG1_00_skin_D": [
+        {
+            "name": "MII_Ch034_Default_00_handL_ShideB",
+            "index": 1
+        },
+        {
+            "name": "MII_Ch034_Default_00_handR_ShideA",
+            "index": 3
+        }
+    ],
+    "MII_Ch034_OrG1_00_body_D": [
+        {
+            "name": "MII_Ch034_OrG1_00_gloveR_HideA",
+            "index": 4
+        },
+        {
+            "name": "MII_Ch034_OrG1_00_gloveL_HideB",
+            "index": 5
+        }
+    ],
+    "MII_Ch038_FmB1_00_hatmask_D": [
+        {
+            "name": "MII_Ch038_FmB1_00_rightcane_HideA",
+            "index": 1
+        }
+    ],
+    "MII_Ch038_OrD1_00_body_D": [
+        {
+            "name": "MII_Ch038_OrD1_00_rightcane_HideA",
+            "index": 2
+        }
+    ],
+    "MII_Ch043_Default_00_acc_D": [
+        {
+            "name": "MII_Ch043_Default_00_wingSword_ShideA",
+            "index": 6
+        }
+    ],
+    "MII_Ch105_OrA1_00_scarf_D": [
+        {
+            "name": "MII_Ch105_OrA1_00_scarfLA_ShideA",
+            "index": 5
+        },
+        {
+            "name": "MII_Ch105_OrA1_00_scarfRB_ShideB",
+            "index": 7
+        }
+    ],
+    "MII_Ch115_EqA1_00_skin_D": [
+        {
+            "name": "MII_Ch115_EqA1_00_Rarm_HideA",
+            "index": 2
+        }
+    ],
+    "MII_Ch115_FmD1_00_body_D": [
+        {
+            "name": "MII_Ch115_FmD1_00_Rarm_HideA",
+            "index": 2
+        }
+    ],
+    "MII_Ch115_OrB1_00_body_D": [
+        {
+            "name": "T_Ch115_OrB1_00_Rarmbody_HideA",
+            "index": 3
+        }
+    ],
+    "MII_Ch115_OrB1_00_skin_D": [
+        {
+            "name": "T_Ch115_OrB1_00_Rarm_HideA",
+            "index": 4
+        }
+    ],
+    "MII_Ch115_OrD1_00_skin_D": [
+        {
+            "name": "MII_Ch115_OrD1_00_Rarm_HideA",
+            "index": 2
+        }
+    ],
+    "MII_Ch115_OrD1_00_body_D": [
+        {
+            "name": "MII_Ch115_OrD1_00_Rarmbody_HideA",
+            "index": 4
+        }
+    ],
+    "MI_ef_Ch202_eyelight_D": [
+        {
+            "name": "MII_Ch202_EqE1_00_eye_HideB",
+            "index": 4
+        }
+    ],
+    "MI_ef_Ch202_eyewhite_D": [
+        {
+            "name": "MII_Ch202_EqE1_00_eye_HideA",
+            "index": 5
+        }
+    ]
+}
