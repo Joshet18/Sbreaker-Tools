@@ -1,0 +1,3426 @@
+[
+    {
+        "Name": "Root",
+        "ParentIndex": -1
+    },
+    {
+        "Name": "jointroot",
+        "ParentIndex": 0
+    },
+    {
+        "Name": "COG",
+        "ParentIndex": 1
+    },
+    {
+        "Name": "waist",
+        "ParentIndex": 2
+    },
+    {
+        "Name": "spine",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "chest",
+        "ParentIndex": 4
+    },
+    {
+        "Name": "neck",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "head",
+        "ParentIndex": 6
+    },
+    {
+        "Name": "Face",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "L_collar",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "L_arm",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "L_elbow",
+        "ParentIndex": 10
+    },
+    {
+        "Name": "L_hand",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "L_thumbfinger_A",
+        "ParentIndex": 12
+    },
+    {
+        "Name": "L_thumbfinger_B",
+        "ParentIndex": 13
+    },
+    {
+        "Name": "L_thumbfinger_C",
+        "ParentIndex": 14
+    },
+    {
+        "Name": "L_indexfinger_A",
+        "ParentIndex": 12
+    },
+    {
+        "Name": "L_indexfinger_B",
+        "ParentIndex": 16
+    },
+    {
+        "Name": "L_indexfinger_C",
+        "ParentIndex": 17
+    },
+    {
+        "Name": "L_middlefinger_A",
+        "ParentIndex": 12
+    },
+    {
+        "Name": "L_middlefinger_B",
+        "ParentIndex": 19
+    },
+    {
+        "Name": "L_middlefinger_C",
+        "ParentIndex": 20
+    },
+    {
+        "Name": "L_fingerBase",
+        "ParentIndex": 12
+    },
+    {
+        "Name": "L_ringfinger_A",
+        "ParentIndex": 22
+    },
+    {
+        "Name": "L_ringfinger_B",
+        "ParentIndex": 23
+    },
+    {
+        "Name": "L_ringfinger_C",
+        "ParentIndex": 24
+    },
+    {
+        "Name": "L_littlefinger_A",
+        "ParentIndex": 22
+    },
+    {
+        "Name": "L_littlefinger_B",
+        "ParentIndex": 26
+    },
+    {
+        "Name": "L_littlefinger_C",
+        "ParentIndex": 27
+    },
+    {
+        "Name": "L_weapon",
+        "ParentIndex": 12
+    },
+    {
+        "Name": "L_elbow_EX",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "L_wrist_EX",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "L_arm_EX",
+        "ParentIndex": 10
+    },
+    {
+        "Name": "L_collar_EX",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "R_collar",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "R_arm",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "R_elbow",
+        "ParentIndex": 35
+    },
+    {
+        "Name": "R_hand",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "R_thumbfinger_A",
+        "ParentIndex": 37
+    },
+    {
+        "Name": "R_thumbfinger_B",
+        "ParentIndex": 38
+    },
+    {
+        "Name": "R_thumbfinger_C",
+        "ParentIndex": 39
+    },
+    {
+        "Name": "R_indexfinger_A",
+        "ParentIndex": 37
+    },
+    {
+        "Name": "R_indexfinger_B",
+        "ParentIndex": 41
+    },
+    {
+        "Name": "R_indexfinger_C",
+        "ParentIndex": 42
+    },
+    {
+        "Name": "R_middlefinger_A",
+        "ParentIndex": 37
+    },
+    {
+        "Name": "R_middlefinger_B",
+        "ParentIndex": 44
+    },
+    {
+        "Name": "R_middlefinger_C",
+        "ParentIndex": 45
+    },
+    {
+        "Name": "R_fingerBase",
+        "ParentIndex": 37
+    },
+    {
+        "Name": "R_littlefinger_A",
+        "ParentIndex": 47
+    },
+    {
+        "Name": "R_littlefinger_B",
+        "ParentIndex": 48
+    },
+    {
+        "Name": "R_littlefinger_C",
+        "ParentIndex": 49
+    },
+    {
+        "Name": "R_ringfinger_A",
+        "ParentIndex": 47
+    },
+    {
+        "Name": "R_ringfinger_B",
+        "ParentIndex": 51
+    },
+    {
+        "Name": "R_ringfinger_C",
+        "ParentIndex": 52
+    },
+    {
+        "Name": "R_weapon",
+        "ParentIndex": 37
+    },
+    {
+        "Name": "R_elbow_EX",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "R_wrist_EX",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "R_arm_EX",
+        "ParentIndex": 35
+    },
+    {
+        "Name": "R_collar_EX",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "hip",
+        "ParentIndex": 2
+    },
+    {
+        "Name": "L_leg",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "L_knee",
+        "ParentIndex": 60
+    },
+    {
+        "Name": "L_ankle",
+        "ParentIndex": 61
+    },
+    {
+        "Name": "L_toe",
+        "ParentIndex": 62
+    },
+    {
+        "Name": "L_toe_end",
+        "ParentIndex": 63
+    },
+    {
+        "Name": "L_knee_EX",
+        "ParentIndex": 61
+    },
+    {
+        "Name": "L_leg_EX",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "R_leg",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "R_knee",
+        "ParentIndex": 67
+    },
+    {
+        "Name": "R_ankle",
+        "ParentIndex": 68
+    },
+    {
+        "Name": "R_toe",
+        "ParentIndex": 69
+    },
+    {
+        "Name": "R_toe_end",
+        "ParentIndex": 70
+    },
+    {
+        "Name": "R_knee_EX",
+        "ParentIndex": 68
+    },
+    {
+        "Name": "R_leg_EX",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "grab",
+        "ParentIndex": 2
+    },
+    {
+        "Name": "L_eyebrow_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_eyebrow_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_eyebrow_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_eyebrow_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_eyebrow_E",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LI_eyelid",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_eyelid_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_eyelid_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_eyelid_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_eyelid_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LO_eyelid",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LU_eyelid_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LU_eyelid_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LU_eyelid_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LU_eyelid_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_eye",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_eyebrow_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_eyebrow_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_eyebrow_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_eyebrow_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_eyebrow_E",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RI_eyelid",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_eyelid_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_eyelid_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_eyelid_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_eyelid_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RO_eyelid",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RU_eyelid_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RU_eyelid_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RU_eyelid_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RU_eyelid_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_eye",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "nose_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_cheek_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_cheek_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_cheek_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_cheek_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_cheek_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_cheek_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_cheek_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "R_cheek_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "T_lip",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_lip_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_lip_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_lip_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "LT_lip_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_lip_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_lip_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_lip_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "RT_lip_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "T_teeth",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "jaw_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "U_lip",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "LU_lip_A",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "LU_lip_B",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "LU_lip_C",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "RU_lip_A",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "RU_lip_B",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "RU_lip_C",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "U_teeth",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "tongue_A",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "tongue_B",
+        "ParentIndex": 135
+    },
+    {
+        "Name": "AC_goggles",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "forehead",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "L_breast_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "L_breast_B",
+        "ParentIndex": 139
+    },
+    {
+        "Name": "R_breast_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "R_breast_B",
+        "ParentIndex": 141
+    },
+    {
+        "Name": "nxRagdoll1",
+        "ParentIndex": 0
+    },
+    {
+        "Name": "tongue_C",
+        "ParentIndex": 136
+    },
+    {
+        "Name": "tongue_D",
+        "ParentIndex": 144
+    },
+    {
+        "Name": "tongue_E",
+        "ParentIndex": 145
+    },
+    {
+        "Name": "AC_hair_A_Ch015",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_scarf",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_wing_A1",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_wing_A2",
+        "ParentIndex": 149
+    },
+    {
+        "Name": "AC_L_wing_A3",
+        "ParentIndex": 150
+    },
+    {
+        "Name": "AC_L_wing_A4",
+        "ParentIndex": 151
+    },
+    {
+        "Name": "AC_L_wing_A5",
+        "ParentIndex": 152
+    },
+    {
+        "Name": "AC_L_wing_A6",
+        "ParentIndex": 153
+    },
+    {
+        "Name": "AC_L_wing_B1",
+        "ParentIndex": 151
+    },
+    {
+        "Name": "AC_L_wing_B2",
+        "ParentIndex": 155
+    },
+    {
+        "Name": "AC_L_wing_B3",
+        "ParentIndex": 156
+    },
+    {
+        "Name": "AC_L_wing_C1",
+        "ParentIndex": 151
+    },
+    {
+        "Name": "AC_L_wing_C2",
+        "ParentIndex": 158
+    },
+    {
+        "Name": "AC_L_wing_D1",
+        "ParentIndex": 150
+    },
+    {
+        "Name": "AC_L_wing_D2",
+        "ParentIndex": 160
+    },
+    {
+        "Name": "AC_R_wing_A1",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_wing_A2",
+        "ParentIndex": 162
+    },
+    {
+        "Name": "AC_R_wing_A3",
+        "ParentIndex": 163
+    },
+    {
+        "Name": "AC_R_wing_A4",
+        "ParentIndex": 164
+    },
+    {
+        "Name": "AC_R_wing_A5",
+        "ParentIndex": 165
+    },
+    {
+        "Name": "AC_R_wing_A6",
+        "ParentIndex": 166
+    },
+    {
+        "Name": "AC_R_wing_B1",
+        "ParentIndex": 164
+    },
+    {
+        "Name": "AC_R_wing_B2",
+        "ParentIndex": 168
+    },
+    {
+        "Name": "AC_R_wing_B3",
+        "ParentIndex": 169
+    },
+    {
+        "Name": "AC_R_wing_C1",
+        "ParentIndex": 164
+    },
+    {
+        "Name": "AC_R_wing_C2",
+        "ParentIndex": 171
+    },
+    {
+        "Name": "AC_R_wing_D1",
+        "ParentIndex": 163
+    },
+    {
+        "Name": "AC_R_wing_D2",
+        "ParentIndex": 173
+    },
+    {
+        "Name": "AC_L_frontHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_frontHair_B",
+        "ParentIndex": 175
+    },
+    {
+        "Name": "AC_L_frontHair_C",
+        "ParentIndex": 176
+    },
+    {
+        "Name": "AC_R_frontHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_frontHair_B",
+        "ParentIndex": 178
+    },
+    {
+        "Name": "AC_R_frontHair_C",
+        "ParentIndex": 179
+    },
+    {
+        "Name": "AC_R_frontHair_D",
+        "ParentIndex": 180
+    },
+    {
+        "Name": "AC_C_hair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_C_hair_B",
+        "ParentIndex": 182
+    },
+    {
+        "Name": "AC_C_hair_C",
+        "ParentIndex": 183
+    },
+    {
+        "Name": "AC_U_teeth",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "AC_T_teeth",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_R_cloth_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_R_cloth_B",
+        "ParentIndex": 187
+    },
+    {
+        "Name": "AC_RB_cloth_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RB_cloth_B",
+        "ParentIndex": 189
+    },
+    {
+        "Name": "AC_B_cloth_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_B_cloth_B",
+        "ParentIndex": 191
+    },
+    {
+        "Name": "AC_LB_cloth_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LB_cloth_B",
+        "ParentIndex": 193
+    },
+    {
+        "Name": "AC_L_cloth_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_L_cloth_B",
+        "ParentIndex": 195
+    },
+    {
+        "Name": "AC_toothmahura",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_syringeGP",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_syringe_A",
+        "ParentIndex": 198
+    },
+    {
+        "Name": "AC_L_syringe_B",
+        "ParentIndex": 198
+    },
+    {
+        "Name": "AC_L_syringe_C",
+        "ParentIndex": 198
+    },
+    {
+        "Name": "AC_R_syringeGP",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_syringe_A",
+        "ParentIndex": 202
+    },
+    {
+        "Name": "AC_R_syringe_B",
+        "ParentIndex": 202
+    },
+    {
+        "Name": "AC_R_syringe_C",
+        "ParentIndex": 202
+    },
+    {
+        "Name": "AC_R_headband_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_headband_B",
+        "ParentIndex": 206
+    },
+    {
+        "Name": "AC_R_headband_C",
+        "ParentIndex": 207
+    },
+    {
+        "Name": "AC_L_headband_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_headband_B",
+        "ParentIndex": 209
+    },
+    {
+        "Name": "AC_L_headband_C",
+        "ParentIndex": 210
+    },
+    {
+        "Name": "AC_F_hige_A",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "AC_R_hige_A",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "AC_L_hige_A",
+        "ParentIndex": 126
+    },
+    {
+        "Name": "AC_R_firemask_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_R_firemask_B",
+        "ParentIndex": 215
+    },
+    {
+        "Name": "AC_R_firemask_C",
+        "ParentIndex": 216
+    },
+    {
+        "Name": "AC_L_firemask_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_L_firemask_B",
+        "ParentIndex": 218
+    },
+    {
+        "Name": "AC_L_firemask_C",
+        "ParentIndex": 219
+    },
+    {
+        "Name": "AC_F_firemask_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_F_firemask_B",
+        "ParentIndex": 221
+    },
+    {
+        "Name": "AC_F_firemask_C",
+        "ParentIndex": 222
+    },
+    {
+        "Name": "AC_L_fire_A",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "AC_L_fire_B",
+        "ParentIndex": 224
+    },
+    {
+        "Name": "AC_R_fire_A",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "AC_R_fire_B",
+        "ParentIndex": 226
+    },
+    {
+        "Name": "AC_B_fire_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_B_fire_B",
+        "ParentIndex": 228
+    },
+    {
+        "Name": "AC_L_legfire_A",
+        "ParentIndex": 61
+    },
+    {
+        "Name": "AC_L_legfire_B",
+        "ParentIndex": 230
+    },
+    {
+        "Name": "AC_R_legfire_A",
+        "ParentIndex": 68
+    },
+    {
+        "Name": "AC_R_legfire_B",
+        "ParentIndex": 232
+    },
+    {
+        "Name": "AC_L_eyewhite",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_R_eyewhite",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_L_mant_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_mant_B",
+        "ParentIndex": 236
+    },
+    {
+        "Name": "AC_L_mant_C",
+        "ParentIndex": 237
+    },
+    {
+        "Name": "AC_L_mant_D",
+        "ParentIndex": 238
+    },
+    {
+        "Name": "AC_C_mant_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_C_mant_B",
+        "ParentIndex": 240
+    },
+    {
+        "Name": "AC_C_mant_C",
+        "ParentIndex": 241
+    },
+    {
+        "Name": "AC_C_mant_D",
+        "ParentIndex": 242
+    },
+    {
+        "Name": "AC_R_mant_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_mant_B",
+        "ParentIndex": 244
+    },
+    {
+        "Name": "AC_R_mant_C",
+        "ParentIndex": 245
+    },
+    {
+        "Name": "AC_R_mant_D",
+        "ParentIndex": 246
+    },
+    {
+        "Name": "AC_R_WP_middlefingerA",
+        "ParentIndex": 37
+    },
+    {
+        "Name": "AC_R_WP_middlefingerB",
+        "ParentIndex": 248
+    },
+    {
+        "Name": "AC_R_WP_middlefingerC",
+        "ParentIndex": 249
+    },
+    {
+        "Name": "AC_R_WP_middlefingerD",
+        "ParentIndex": 250
+    },
+    {
+        "Name": "AC_R_WP_middlefingerE",
+        "ParentIndex": 251
+    },
+    {
+        "Name": "AC_R_WP_middlefingerF",
+        "ParentIndex": 252
+    },
+    {
+        "Name": "AC_R_WP_middlefingerG",
+        "ParentIndex": 253
+    },
+    {
+        "Name": "AC_R_WP_middlefingerH",
+        "ParentIndex": 254
+    },
+    {
+        "Name": "AC_R_WP_middlefingerI",
+        "ParentIndex": 255
+    },
+    {
+        "Name": "AC_R_WP_middlefingerJ",
+        "ParentIndex": 256
+    },
+    {
+        "Name": "AC_R_WP_middlefingerK",
+        "ParentIndex": 257
+    },
+    {
+        "Name": "AC_R_WP_middlefingerL",
+        "ParentIndex": 258
+    },
+    {
+        "Name": "AC_scarf_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_scarf_B",
+        "ParentIndex": 260
+    },
+    {
+        "Name": "AC_scarf_C",
+        "ParentIndex": 261
+    },
+    {
+        "Name": "AC_B_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_B_bred_B",
+        "ParentIndex": 263
+    },
+    {
+        "Name": "AC_B_bred_C",
+        "ParentIndex": 264
+    },
+    {
+        "Name": "AC_B_bred_D",
+        "ParentIndex": 265
+    },
+    {
+        "Name": "AC_L_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_L_bred_B",
+        "ParentIndex": 267
+    },
+    {
+        "Name": "AC_L_bred_C",
+        "ParentIndex": 268
+    },
+    {
+        "Name": "AC_L_bred_D",
+        "ParentIndex": 269
+    },
+    {
+        "Name": "AC_R_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_R_bred_B",
+        "ParentIndex": 271
+    },
+    {
+        "Name": "AC_R_bred_C",
+        "ParentIndex": 272
+    },
+    {
+        "Name": "AC_R_bred_D",
+        "ParentIndex": 273
+    },
+    {
+        "Name": "AC_LB_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LB_bred_B",
+        "ParentIndex": 275
+    },
+    {
+        "Name": "AC_LB_bred_C",
+        "ParentIndex": 276
+    },
+    {
+        "Name": "AC_LB_bred_D",
+        "ParentIndex": 277
+    },
+    {
+        "Name": "AC_RB_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RB_bred_B",
+        "ParentIndex": 279
+    },
+    {
+        "Name": "AC_RB_bred_C",
+        "ParentIndex": 280
+    },
+    {
+        "Name": "AC_RB_bred_D",
+        "ParentIndex": 281
+    },
+    {
+        "Name": "grab_A",
+        "ParentIndex": 2
+    },
+    {
+        "Name": "grab_B",
+        "ParentIndex": 2
+    },
+    {
+        "Name": "AC_R_msrgrip",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_R_msrA",
+        "ParentIndex": 285
+    },
+    {
+        "Name": "AC_R_msrB",
+        "ParentIndex": 286
+    },
+    {
+        "Name": "AC_R_msrC",
+        "ParentIndex": 287
+    },
+    {
+        "Name": "AC_R_msrD",
+        "ParentIndex": 288
+    },
+    {
+        "Name": "AC_R_msrE",
+        "ParentIndex": 289
+    },
+    {
+        "Name": "AC_R_msrF",
+        "ParentIndex": 290
+    },
+    {
+        "Name": "AC_R_msrG",
+        "ParentIndex": 291
+    },
+    {
+        "Name": "AC_R_msrH",
+        "ParentIndex": 292
+    },
+    {
+        "Name": "AC_R_msrI",
+        "ParentIndex": 293
+    },
+    {
+        "Name": "AC_R_msrJ",
+        "ParentIndex": 294
+    },
+    {
+        "Name": "AC_R_msrK",
+        "ParentIndex": 295
+    },
+    {
+        "Name": "AC_R_msrL",
+        "ParentIndex": 296
+    },
+    {
+        "Name": "AC_L_msrgrip",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_L_msrA",
+        "ParentIndex": 298
+    },
+    {
+        "Name": "AC_L_msrB",
+        "ParentIndex": 299
+    },
+    {
+        "Name": "AC_L_msrC",
+        "ParentIndex": 300
+    },
+    {
+        "Name": "AC_L_msrD",
+        "ParentIndex": 301
+    },
+    {
+        "Name": "AC_L_msrE",
+        "ParentIndex": 302
+    },
+    {
+        "Name": "AC_L_msrF",
+        "ParentIndex": 303
+    },
+    {
+        "Name": "AC_L_msrG",
+        "ParentIndex": 304
+    },
+    {
+        "Name": "AC_L_msrH",
+        "ParentIndex": 305
+    },
+    {
+        "Name": "AC_L_msrI",
+        "ParentIndex": 306
+    },
+    {
+        "Name": "AC_L_msrJ",
+        "ParentIndex": 307
+    },
+    {
+        "Name": "AC_L_msrK",
+        "ParentIndex": 308
+    },
+    {
+        "Name": "AC_L_msrL",
+        "ParentIndex": 309
+    },
+    {
+        "Name": "AC_reloading",
+        "ParentIndex": 29
+    },
+    {
+        "Name": "AC_L_beard",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_R_beard",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_eri",
+        "ParentIndex": 6
+    },
+    {
+        "Name": "AC_L_neckguard",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_neckguard",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_B_neckguard",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_himo",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_R_himo",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_L_hair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_hair_B",
+        "ParentIndex": 320
+    },
+    {
+        "Name": "AC_L_hair_C",
+        "ParentIndex": 321
+    },
+    {
+        "Name": "AC_L_hair_D",
+        "ParentIndex": 322
+    },
+    {
+        "Name": "AC_L_hair_E",
+        "ParentIndex": 323
+    },
+    {
+        "Name": "L_wrist_base",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_L_wrist_SCL",
+        "ParentIndex": 325
+    },
+    {
+        "Name": "R_wrist_base",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_R_wrist_SCL",
+        "ParentIndex": 327
+    },
+    {
+        "Name": "AC_LF_skirtmae",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LF_skirtmae_01",
+        "ParentIndex": 329
+    },
+    {
+        "Name": "AC_LB_skirtushiro",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LB_skirtushiro_01",
+        "ParentIndex": 331
+    },
+    {
+        "Name": "AC_RF_skirtmae",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RF_skirtmae_01",
+        "ParentIndex": 333
+    },
+    {
+        "Name": "AC_RB_skirtushiro",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RB_skirtushiro_01",
+        "ParentIndex": 335
+    },
+    {
+        "Name": "AC_belt",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_L_belt",
+        "ParentIndex": 337
+    },
+    {
+        "Name": "AC_L_bottle_C",
+        "ParentIndex": 338
+    },
+    {
+        "Name": "AC_R_belt",
+        "ParentIndex": 337
+    },
+    {
+        "Name": "AC_R_bottle_C",
+        "ParentIndex": 340
+    },
+    {
+        "Name": "AC_F_skirtmae",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_F_skirtmae_01",
+        "ParentIndex": 342
+    },
+    {
+        "Name": "AC_R_hair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_hair_B",
+        "ParentIndex": 344
+    },
+    {
+        "Name": "AC_R_hair_C",
+        "ParentIndex": 345
+    },
+    {
+        "Name": "AC_R_hair_D",
+        "ParentIndex": 346
+    },
+    {
+        "Name": "AC_L_grenade",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_R_grenade",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_pl13hairA",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_pl13hairB",
+        "ParentIndex": 350
+    },
+    {
+        "Name": "AC_L_wpgrip",
+        "ParentIndex": 29
+    },
+    {
+        "Name": "AC_L_wpA",
+        "ParentIndex": 352
+    },
+    {
+        "Name": "AC_L_wpB",
+        "ParentIndex": 353
+    },
+    {
+        "Name": "AC_L_wpC",
+        "ParentIndex": 354
+    },
+    {
+        "Name": "AC_L_wpD",
+        "ParentIndex": 355
+    },
+    {
+        "Name": "AC_L_wpE",
+        "ParentIndex": 356
+    },
+    {
+        "Name": "AC_L_wpF",
+        "ParentIndex": 357
+    },
+    {
+        "Name": "AC_L_wpG",
+        "ParentIndex": 358
+    },
+    {
+        "Name": "AC_L_wpH",
+        "ParentIndex": 359
+    },
+    {
+        "Name": "AC_L_wpI",
+        "ParentIndex": 360
+    },
+    {
+        "Name": "AC_L_wpJ",
+        "ParentIndex": 361
+    },
+    {
+        "Name": "AC_L_wpK",
+        "ParentIndex": 362
+    },
+    {
+        "Name": "AC_L_wpL",
+        "ParentIndex": 363
+    },
+    {
+        "Name": "AC_L_wpbackB",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_L_wpbackA",
+        "ParentIndex": 10
+    },
+    {
+        "Name": "AC_R_wpgrip",
+        "ParentIndex": 54
+    },
+    {
+        "Name": "AC_R_wpA",
+        "ParentIndex": 367
+    },
+    {
+        "Name": "AC_R_wpB",
+        "ParentIndex": 368
+    },
+    {
+        "Name": "AC_R_wpC",
+        "ParentIndex": 369
+    },
+    {
+        "Name": "AC_R_wpD",
+        "ParentIndex": 370
+    },
+    {
+        "Name": "AC_R_wpE",
+        "ParentIndex": 371
+    },
+    {
+        "Name": "AC_R_wpF",
+        "ParentIndex": 372
+    },
+    {
+        "Name": "AC_R_wpG",
+        "ParentIndex": 373
+    },
+    {
+        "Name": "AC_R_wpH",
+        "ParentIndex": 374
+    },
+    {
+        "Name": "AC_R_wpI",
+        "ParentIndex": 375
+    },
+    {
+        "Name": "AC_R_wpJ",
+        "ParentIndex": 376
+    },
+    {
+        "Name": "AC_R_wpK",
+        "ParentIndex": 377
+    },
+    {
+        "Name": "AC_R_wpL",
+        "ParentIndex": 378
+    },
+    {
+        "Name": "AC_R_wpbackB",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_R_wpbackA",
+        "ParentIndex": 35
+    },
+    {
+        "Name": "AC_L_neckband",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_neckband",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_wpshield",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_B",
+        "ParentIndex": 385
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_C",
+        "ParentIndex": 386
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_D",
+        "ParentIndex": 387
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_E",
+        "ParentIndex": 388
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_F",
+        "ParentIndex": 389
+    },
+    {
+        "Name": "AC_LS_WP_whipHair_G",
+        "ParentIndex": 390
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_B",
+        "ParentIndex": 392
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_C",
+        "ParentIndex": 393
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_D",
+        "ParentIndex": 394
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_E",
+        "ParentIndex": 395
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_F",
+        "ParentIndex": 396
+    },
+    {
+        "Name": "AC_LR_WP_whipHair_G",
+        "ParentIndex": 397
+    },
+    {
+        "Name": "AC_C_WP_whipHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_C_WP_whipHair_B",
+        "ParentIndex": 399
+    },
+    {
+        "Name": "AC_C_WP_whipHair_C",
+        "ParentIndex": 400
+    },
+    {
+        "Name": "AC_C_WP_whipHair_D",
+        "ParentIndex": 401
+    },
+    {
+        "Name": "AC_C_WP_whipHair_E",
+        "ParentIndex": 402
+    },
+    {
+        "Name": "AC_C_WP_whipHair_F",
+        "ParentIndex": 403
+    },
+    {
+        "Name": "AC_C_WP_whipHair_G",
+        "ParentIndex": 404
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_B",
+        "ParentIndex": 406
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_C",
+        "ParentIndex": 407
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_D",
+        "ParentIndex": 408
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_E",
+        "ParentIndex": 409
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_F",
+        "ParentIndex": 410
+    },
+    {
+        "Name": "AC_RR_WP_whipHair_G",
+        "ParentIndex": 411
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_B",
+        "ParentIndex": 413
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_C",
+        "ParentIndex": 414
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_D",
+        "ParentIndex": 415
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_E",
+        "ParentIndex": 416
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_F",
+        "ParentIndex": 417
+    },
+    {
+        "Name": "AC_RS_WP_whipHair_G",
+        "ParentIndex": 418
+    },
+    {
+        "Name": "hair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "hair_B",
+        "ParentIndex": 420
+    },
+    {
+        "Name": "hair_C",
+        "ParentIndex": 421
+    },
+    {
+        "Name": "AC_RF_skirt_A",
+        "ParentIndex": 67
+    },
+    {
+        "Name": "AC_RF_skirt_B",
+        "ParentIndex": 423
+    },
+    {
+        "Name": "AC_RF_skirt_C",
+        "ParentIndex": 424
+    },
+    {
+        "Name": "AC_RS_skirt_A",
+        "ParentIndex": 67
+    },
+    {
+        "Name": "AC_RS_skirt_B",
+        "ParentIndex": 426
+    },
+    {
+        "Name": "AC_RS_skirt_C",
+        "ParentIndex": 427
+    },
+    {
+        "Name": "AC_RB_skirt_A",
+        "ParentIndex": 67
+    },
+    {
+        "Name": "AC_RB_skirt_B",
+        "ParentIndex": 429
+    },
+    {
+        "Name": "AC_RB_skirt_C",
+        "ParentIndex": 430
+    },
+    {
+        "Name": "AC_LF_skirt_A",
+        "ParentIndex": 60
+    },
+    {
+        "Name": "AC_LF_skirt_B",
+        "ParentIndex": 432
+    },
+    {
+        "Name": "AC_LF_skirt_C",
+        "ParentIndex": 433
+    },
+    {
+        "Name": "AC_LS_skirt_A",
+        "ParentIndex": 60
+    },
+    {
+        "Name": "AC_LS_skirt_B",
+        "ParentIndex": 435
+    },
+    {
+        "Name": "AC_LS_skirt_C",
+        "ParentIndex": 436
+    },
+    {
+        "Name": "AC_LB_skirt_A",
+        "ParentIndex": 60
+    },
+    {
+        "Name": "AC_LB_skirt_B",
+        "ParentIndex": 438
+    },
+    {
+        "Name": "AC_LB_skirt_C",
+        "ParentIndex": 439
+    },
+    {
+        "Name": "hair",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_frontHair_D",
+        "ParentIndex": 177
+    },
+    {
+        "Name": "AC_L_frontHair_E",
+        "ParentIndex": 442
+    },
+    {
+        "Name": "AC_R_frontHair_E",
+        "ParentIndex": 181
+    },
+    {
+        "Name": "AC_R_frontHair_F",
+        "ParentIndex": 444
+    },
+    {
+        "Name": "AC_C_hair_D",
+        "ParentIndex": 184
+    },
+    {
+        "Name": "AC_L_armbelt_A",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_L_armbelt_B",
+        "ParentIndex": 447
+    },
+    {
+        "Name": "AC_L_armbelt_C",
+        "ParentIndex": 448
+    },
+    {
+        "Name": "AC_L_armbelt_D",
+        "ParentIndex": 449
+    },
+    {
+        "Name": "AC_R_armbelt_A",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_R_armbelt_B",
+        "ParentIndex": 451
+    },
+    {
+        "Name": "AC_R_armbelt_C",
+        "ParentIndex": 452
+    },
+    {
+        "Name": "AC_R_armbelt_D",
+        "ParentIndex": 453
+    },
+    {
+        "Name": "Ball_A",
+        "ParentIndex": 441
+    },
+    {
+        "Name": "Ball_B",
+        "ParentIndex": 441
+    },
+    {
+        "Name": "Ball_C",
+        "ParentIndex": 441
+    },
+    {
+        "Name": "Ball_D",
+        "ParentIndex": 441
+    },
+    {
+        "Name": "AC_tuyutongue_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_tuyutongue_B",
+        "ParentIndex": 459
+    },
+    {
+        "Name": "AC_tuyutongue_C",
+        "ParentIndex": 460
+    },
+    {
+        "Name": "AC_tuyutongue_D",
+        "ParentIndex": 461
+    },
+    {
+        "Name": "AC_tuyutongue_E",
+        "ParentIndex": 462
+    },
+    {
+        "Name": "AC_tuyutongue_F",
+        "ParentIndex": 463
+    },
+    {
+        "Name": "AC_tuyutongue_G",
+        "ParentIndex": 464
+    },
+    {
+        "Name": "AC_tuyutongue_H",
+        "ParentIndex": 465
+    },
+    {
+        "Name": "AC_tuyutongue_I",
+        "ParentIndex": 466
+    },
+    {
+        "Name": "AC_tuyutongue_J",
+        "ParentIndex": 467
+    },
+    {
+        "Name": "AC_tuyutongue_K",
+        "ParentIndex": 468
+    },
+    {
+        "Name": "AC_tuyutongue_L",
+        "ParentIndex": 469
+    },
+    {
+        "Name": "AC_elbow",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hand",
+        "ParentIndex": 471
+    },
+    {
+        "Name": "AC_thumbfinger",
+        "ParentIndex": 472
+    },
+    {
+        "Name": "AC_indexfinger",
+        "ParentIndex": 472
+    },
+    {
+        "Name": "AC_middlefinger",
+        "ParentIndex": 472
+    },
+    {
+        "Name": "AC_ringfinger",
+        "ParentIndex": 472
+    },
+    {
+        "Name": "AC_littlefinger",
+        "ParentIndex": 472
+    },
+    {
+        "Name": "AC_headSmoke_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_headSmoke_B",
+        "ParentIndex": 478
+    },
+    {
+        "Name": "AC_shooter",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "L_shoulder_armor",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "R_shoulder_armor",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "AC_hair_Ch012",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_hair_A_Ch012",
+        "ParentIndex": 483
+    },
+    {
+        "Name": "AC_R_hair_A_Ch012",
+        "ParentIndex": 483
+    },
+    {
+        "Name": "AC_CL_hair_D",
+        "ParentIndex": 184
+    },
+    {
+        "Name": "AC_CR_hair_D",
+        "ParentIndex": 184
+    },
+    {
+        "Name": "AC_hair_A_Ch109",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hair_B_Ch109",
+        "ParentIndex": 488
+    },
+    {
+        "Name": "AC_speaker_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_speaker_B",
+        "ParentIndex": 490
+    },
+    {
+        "Name": "AC_plastic_pet",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_C_slirt_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_C_slirt_B",
+        "ParentIndex": 493
+    },
+    {
+        "Name": "AC_C_slirt_C",
+        "ParentIndex": 494
+    },
+    {
+        "Name": "AC_C_slirt_D",
+        "ParentIndex": 495
+    },
+    {
+        "Name": "AC_L_slirt_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_L_slirt_B",
+        "ParentIndex": 497
+    },
+    {
+        "Name": "AC_L_slirt_C",
+        "ParentIndex": 498
+    },
+    {
+        "Name": "AC_L_slirt_D",
+        "ParentIndex": 499
+    },
+    {
+        "Name": "AC_R_slirt_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_R_slirt_B",
+        "ParentIndex": 501
+    },
+    {
+        "Name": "AC_R_slirt_C",
+        "ParentIndex": 502
+    },
+    {
+        "Name": "AC_R_slirt_D",
+        "ParentIndex": 503
+    },
+    {
+        "Name": "AC_HLB_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLB_skirt_B",
+        "ParentIndex": 505
+    },
+    {
+        "Name": "AC_HRB_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRB_skirt_B",
+        "ParentIndex": 507
+    },
+    {
+        "Name": "wrinkle",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "eyetype_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "eyetype_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "eyetype_C",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "eyetype_D",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "facetype_X",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "mouthtype_A",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "mouthtype_B",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_HLF_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLF_skirt_B",
+        "ParentIndex": 517
+    },
+    {
+        "Name": "AC_HLF_skirt_C",
+        "ParentIndex": 518
+    },
+    {
+        "Name": "AC_HLS_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLS_skirt_B",
+        "ParentIndex": 520
+    },
+    {
+        "Name": "AC_HLS_skirt_C",
+        "ParentIndex": 521
+    },
+    {
+        "Name": "AC_HLB_skirt_C",
+        "ParentIndex": 506
+    },
+    {
+        "Name": "AC_HRF_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRF_skirt_B",
+        "ParentIndex": 524
+    },
+    {
+        "Name": "AC_HRF_skirt_C",
+        "ParentIndex": 525
+    },
+    {
+        "Name": "AC_HRS_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRS_skirt_B",
+        "ParentIndex": 527
+    },
+    {
+        "Name": "AC_HRS_skirt_C",
+        "ParentIndex": 528
+    },
+    {
+        "Name": "AC_HRB_skirt_C",
+        "ParentIndex": 508
+    },
+    {
+        "Name": "AC_scarf_Ch018_FmC1",
+        "ParentIndex": 6
+    },
+    {
+        "Name": "AC_L_scarf_A_Ch018_FmC1",
+        "ParentIndex": 531
+    },
+    {
+        "Name": "AC_R_scarf_A_Ch018_FmC1",
+        "ParentIndex": 531
+    },
+    {
+        "Name": "AC_Ch105mask",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_scarf",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "AC_R_scarf",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "AC_hair_Ch010",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_hair_A_Ch010",
+        "ParentIndex": 537
+    },
+    {
+        "Name": "AC_front_hair_Ch010",
+        "ParentIndex": 8
+    },
+    {
+        "Name": "AC_front_hair_A_Ch010",
+        "ParentIndex": 539
+    },
+    {
+        "Name": "AC_R_cloth_C",
+        "ParentIndex": 188
+    },
+    {
+        "Name": "AC_RB_cloth_C",
+        "ParentIndex": 190
+    },
+    {
+        "Name": "AC_B_cloth_C",
+        "ParentIndex": 192
+    },
+    {
+        "Name": "AC_LB_cloth_C",
+        "ParentIndex": 194
+    },
+    {
+        "Name": "AC_L_cloth_C",
+        "ParentIndex": 196
+    },
+    {
+        "Name": "AC_L_ear_A_Ch111",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_ear_B_Ch111",
+        "ParentIndex": 546
+    },
+    {
+        "Name": "AC_L_ear_C_Ch111",
+        "ParentIndex": 547
+    },
+    {
+        "Name": "AC_R_ear_A_Ch111",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_ear_B_Ch111",
+        "ParentIndex": 549
+    },
+    {
+        "Name": "AC_R_ear_C_Ch111",
+        "ParentIndex": 550
+    },
+    {
+        "Name": "AC_tail_A_Ch111",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_C_hair_A_Ch503",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_C_hair_B_Ch503",
+        "ParentIndex": 553
+    },
+    {
+        "Name": "AC_C_hair_C_Ch503",
+        "ParentIndex": 554
+    },
+    {
+        "Name": "AC_L_hair_A_Ch025",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_hair_B_Ch025",
+        "ParentIndex": 556
+    },
+    {
+        "Name": "AC_L_hair_C_Ch025",
+        "ParentIndex": 557
+    },
+    {
+        "Name": "AC_L_hair_D_Ch025",
+        "ParentIndex": 558
+    },
+    {
+        "Name": "AC_C_hair_A_Ch025",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_C_hair_B_Ch025",
+        "ParentIndex": 560
+    },
+    {
+        "Name": "AC_C_hair_C_Ch025",
+        "ParentIndex": 561
+    },
+    {
+        "Name": "AC_C_hair_D_Ch025",
+        "ParentIndex": 562
+    },
+    {
+        "Name": "AC_C_hair_E_Ch025",
+        "ParentIndex": 563
+    },
+    {
+        "Name": "AC_C_hair_F_Ch025",
+        "ParentIndex": 564
+    },
+    {
+        "Name": "AC_C_hair_G_Ch025",
+        "ParentIndex": 562
+    },
+    {
+        "Name": "AC_C_hair_H_Ch025",
+        "ParentIndex": 566
+    },
+    {
+        "Name": "AC_C_hair_I_Ch025",
+        "ParentIndex": 567
+    },
+    {
+        "Name": "AC_R_hair_A_Ch025",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_hair_B_Ch025",
+        "ParentIndex": 569
+    },
+    {
+        "Name": "AC_R_hair_C_Ch025",
+        "ParentIndex": 570
+    },
+    {
+        "Name": "AC_R_hair_D_Ch025",
+        "ParentIndex": 571
+    },
+    {
+        "Name": "AC_T_hair_Ch025",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_frontHair_A_Ch025",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_frontHair_A_Ch025",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_coverA_Ch001",
+        "ParentIndex": 31
+    },
+    {
+        "Name": "AC_L_coverB_Ch001",
+        "ParentIndex": 31
+    },
+    {
+        "Name": "AC_L_coverC_Ch001",
+        "ParentIndex": 31
+    },
+    {
+        "Name": "AC_R_coverA_Ch001",
+        "ParentIndex": 56
+    },
+    {
+        "Name": "AC_R_coverB_Ch001",
+        "ParentIndex": 56
+    },
+    {
+        "Name": "AC_R_coverC_Ch001",
+        "ParentIndex": 56
+    },
+    {
+        "Name": "AC_backhair_A_Ch013",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_backhair_B_Ch013",
+        "ParentIndex": 582
+    },
+    {
+        "Name": "AC_hair_A_Ch013",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hair_B_Ch013",
+        "ParentIndex": 584
+    },
+    {
+        "Name": "AC_fur_A_Ch034",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_fur_B_Ch034",
+        "ParentIndex": 586
+    },
+    {
+        "Name": "AC_hairL_A_Ch013",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hairL_B_Ch013",
+        "ParentIndex": 588
+    },
+    {
+        "Name": "AC_hairR_A_Ch013",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hairR_B_Ch013",
+        "ParentIndex": 590
+    },
+    {
+        "Name": "AC_L_scarf_A_Ch008",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_scarf_B_Ch008",
+        "ParentIndex": 592
+    },
+    {
+        "Name": "AC_L_scarf_C_Ch008",
+        "ParentIndex": 593
+    },
+    {
+        "Name": "AC_R_scarf_A_Ch008",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_scarf_B_Ch008",
+        "ParentIndex": 595
+    },
+    {
+        "Name": "AC_R_scarf_C_Ch008",
+        "ParentIndex": 596
+    },
+    {
+        "Name": "AC_LB_cloth_A_Ch008",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LB_cloth_B_Ch008",
+        "ParentIndex": 598
+    },
+    {
+        "Name": "AC_F_cloth_A_Ch008",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_F_cloth_B_Ch008",
+        "ParentIndex": 600
+    },
+    {
+        "Name": "AC_RB_cloth_A_Ch008",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RB_cloth_B_Ch008",
+        "ParentIndex": 602
+    },
+    {
+        "Name": "AC_fur_A_Ch007",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_fur_B_Ch007",
+        "ParentIndex": 604
+    },
+    {
+        "Name": "AC_L_skirt_A_Ch007",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_L_skirt_B_Ch007",
+        "ParentIndex": 606
+    },
+    {
+        "Name": "AC_L_skirt_C_Ch007",
+        "ParentIndex": 607
+    },
+    {
+        "Name": "AC_R_skirt_A_Ch007",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_R_skirt_B_Ch007",
+        "ParentIndex": 609
+    },
+    {
+        "Name": "AC_R_skirt_C_Ch007",
+        "ParentIndex": 610
+    },
+    {
+        "Name": "AC_HRB_sleeve_A_ch007",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLB_sleeve_A_ch007",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HF_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HF_skirt_B",
+        "ParentIndex": 614
+    },
+    {
+        "Name": "AC_HF_skirt_C",
+        "ParentIndex": 615
+    },
+    {
+        "Name": "AC_HBR_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HBR_skirt_B",
+        "ParentIndex": 617
+    },
+    {
+        "Name": "AC_HBR_skirt_C",
+        "ParentIndex": 618
+    },
+    {
+        "Name": "AC_HBL_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HBL_skirt_B",
+        "ParentIndex": 620
+    },
+    {
+        "Name": "AC_HBL_skirt_C",
+        "ParentIndex": 621
+    },
+    {
+        "Name": "AC_L_scarf_Ch023",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_scarf_Ch023",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_TL_hair_A_Ch025",
+        "ParentIndex": 573
+    },
+    {
+        "Name": "AC_TR_hair_A_Ch025",
+        "ParentIndex": 573
+    },
+    {
+        "Name": "AC_L_hand",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_L_thumbfinger_A",
+        "ParentIndex": 627
+    },
+    {
+        "Name": "AC_L_thumbfinger_B",
+        "ParentIndex": 628
+    },
+    {
+        "Name": "AC_L_thumbfinger_C",
+        "ParentIndex": 629
+    },
+    {
+        "Name": "AC_L_indexfinger_A",
+        "ParentIndex": 627
+    },
+    {
+        "Name": "AC_L_indexfinger_B",
+        "ParentIndex": 631
+    },
+    {
+        "Name": "AC_L_indexfinger_C",
+        "ParentIndex": 632
+    },
+    {
+        "Name": "AC_L_middlefinger_A",
+        "ParentIndex": 627
+    },
+    {
+        "Name": "AC_L_middlefinger_B",
+        "ParentIndex": 634
+    },
+    {
+        "Name": "AC_L_middlefinger_C",
+        "ParentIndex": 635
+    },
+    {
+        "Name": "AC_L_fingerBase",
+        "ParentIndex": 627
+    },
+    {
+        "Name": "AC_L_littlefinger_A",
+        "ParentIndex": 637
+    },
+    {
+        "Name": "AC_L_littlefinger_B",
+        "ParentIndex": 638
+    },
+    {
+        "Name": "AC_L_littlefinger_C",
+        "ParentIndex": 639
+    },
+    {
+        "Name": "AC_L_ringfinger_A",
+        "ParentIndex": 637
+    },
+    {
+        "Name": "AC_L_ringfinger_B",
+        "ParentIndex": 641
+    },
+    {
+        "Name": "AC_L_ringfinger_C",
+        "ParentIndex": 642
+    },
+    {
+        "Name": "AC_R_hand",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_R_thumbfinger_A",
+        "ParentIndex": 644
+    },
+    {
+        "Name": "AC_R_thumbfinger_B",
+        "ParentIndex": 645
+    },
+    {
+        "Name": "AC_R_thumbfinger_C",
+        "ParentIndex": 646
+    },
+    {
+        "Name": "AC_R_indexfinger_A",
+        "ParentIndex": 644
+    },
+    {
+        "Name": "AC_R_indexfinger_B",
+        "ParentIndex": 648
+    },
+    {
+        "Name": "AC_R_indexfinger_C",
+        "ParentIndex": 649
+    },
+    {
+        "Name": "AC_R_middlefinger_A",
+        "ParentIndex": 644
+    },
+    {
+        "Name": "AC_R_middlefinger_B",
+        "ParentIndex": 651
+    },
+    {
+        "Name": "AC_R_middlefinger_C",
+        "ParentIndex": 652
+    },
+    {
+        "Name": "AC_R_fingerBase",
+        "ParentIndex": 644
+    },
+    {
+        "Name": "AC_R_littlefinger_A",
+        "ParentIndex": 654
+    },
+    {
+        "Name": "AC_R_littlefinger_B",
+        "ParentIndex": 655
+    },
+    {
+        "Name": "AC_R_littlefinger_C",
+        "ParentIndex": 656
+    },
+    {
+        "Name": "AC_R_ringfinger_A",
+        "ParentIndex": 654
+    },
+    {
+        "Name": "AC_R_ringfinger_B",
+        "ParentIndex": 658
+    },
+    {
+        "Name": "AC_R_ringfinger_C",
+        "ParentIndex": 659
+    },
+    {
+        "Name": "AC_L_shirtcollar",
+        "ParentIndex": 6
+    },
+    {
+        "Name": "AC_R_shirtcollar",
+        "ParentIndex": 6
+    },
+    {
+        "Name": "AC_HRB_sleeve_A_Ch002",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HLB_sleeve_A_Ch002",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_Ch005_drink",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_Ch008_LSB_koshinuno_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_Ch008_LSB_koshinuno_B",
+        "ParentIndex": 666
+    },
+    {
+        "Name": "AC_Ch008_LSA_koshinuno_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_Ch008_LSA_koshinuno_B",
+        "ParentIndex": 668
+    },
+    {
+        "Name": "AC_ofuda_Ch006",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hair_Ch001",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_hair_Ch001",
+        "ParentIndex": 671
+    },
+    {
+        "Name": "AC_R_hair_Ch001",
+        "ParentIndex": 671
+    },
+    {
+        "Name": "AC_Ch024_bachi",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_cannon_A_Ch002",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_ammo_A_Ch002",
+        "ParentIndex": 675
+    },
+    {
+        "Name": "AC_R_ammo_A_Ch002",
+        "ParentIndex": 675
+    },
+    {
+        "Name": "AC_cannon_B_Ch002",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_ammo_B_Ch002",
+        "ParentIndex": 678
+    },
+    {
+        "Name": "AC_R_ammo_B_Ch002",
+        "ParentIndex": 678
+    },
+    {
+        "Name": "AC_cannon_C_Ch002",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_ammo_C_Ch002",
+        "ParentIndex": 681
+    },
+    {
+        "Name": "AC_R_ammo_C_Ch002",
+        "ParentIndex": 681
+    },
+    {
+        "Name": "AC_paperbag_F_Ch037",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_paperbag_B_Ch037",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_backarm_L_A_Ch034",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_backarm_L_B_Ch034",
+        "ParentIndex": 686
+    },
+    {
+        "Name": "AC_backarm_R_A_Ch034",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_backarm_R_B_Ch034",
+        "ParentIndex": 688
+    },
+    {
+        "Name": "AC_X_hair_ch006_jinbei",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_hairA_ch006_jinbei",
+        "ParentIndex": 690
+    },
+    {
+        "Name": "AC_L_hairB_ch006_jinbei",
+        "ParentIndex": 690
+    },
+    {
+        "Name": "AC_R_hairA_ch006_jinbei",
+        "ParentIndex": 690
+    },
+    {
+        "Name": "AC_R_hairB_ch006_jinbei",
+        "ParentIndex": 690
+    },
+    {
+        "Name": "AC_backarm_L_B2_Ch034",
+        "ParentIndex": 686
+    },
+    {
+        "Name": "AC_backarm_R_B2_Ch034",
+        "ParentIndex": 688
+    },
+    {
+        "Name": "AC_HRB_A_Ch034",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HRB_B_Ch034",
+        "ParentIndex": 697
+    },
+    {
+        "Name": "AC_HLB_A_Ch034",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HLB_B_Ch034",
+        "ParentIndex": 699
+    },
+    {
+        "Name": "AC_HLS_A_Ch034",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HLS_B_Ch034",
+        "ParentIndex": 701
+    },
+    {
+        "Name": "AC_HRS_A_Ch034",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HRS_B_Ch034",
+        "ParentIndex": 703
+    },
+    {
+        "Name": "AC_R_towel_Ch013",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_towel_Ch013",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_HLS_outer_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HLS_outer_B",
+        "ParentIndex": 707
+    },
+    {
+        "Name": "AC_HLB_outer_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HLB_outer_B",
+        "ParentIndex": 709
+    },
+    {
+        "Name": "AC_HLF_outer_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HLF_outer_B",
+        "ParentIndex": 711
+    },
+    {
+        "Name": "AC_HRB_outer_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HRB_outer_B",
+        "ParentIndex": 713
+    },
+    {
+        "Name": "AC_HRF_outer_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HRF_outer_B",
+        "ParentIndex": 715
+    },
+    {
+        "Name": "AC_HRS_outer_A",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_HRS_outer_B",
+        "ParentIndex": 717
+    },
+    {
+        "Name": "AC_L_apron_A_Ch002",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_R_apron_A_Ch002",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_santahat_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_santahat_B",
+        "ParentIndex": 721
+    },
+    {
+        "Name": "AC_B_coller",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_HLB_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLB_hem_B",
+        "ParentIndex": 724
+    },
+    {
+        "Name": "AC_HLF_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLF_hem_B",
+        "ParentIndex": 726
+    },
+    {
+        "Name": "AC_HLS_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HLS_hem_B",
+        "ParentIndex": 728
+    },
+    {
+        "Name": "AC_HRF_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRF_hem_B",
+        "ParentIndex": 730
+    },
+    {
+        "Name": "AC_HRS_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRS_hem_B",
+        "ParentIndex": 732
+    },
+    {
+        "Name": "AC_HRB_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRB_hem_B",
+        "ParentIndex": 734
+    },
+    {
+        "Name": "AC_C_hem_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_B_lowerHair_A_Ch013",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_F_lowerHair_A_Ch013",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_armorRope_A_Ch023",
+        "ParentIndex": 10
+    },
+    {
+        "Name": "AC_L_armorRope_B_Ch023",
+        "ParentIndex": 739
+    },
+    {
+        "Name": "AC_R_armorRope_A_Ch023",
+        "ParentIndex": 35
+    },
+    {
+        "Name": "AC_R_armorRope_B_Ch023",
+        "ParentIndex": 741
+    },
+    {
+        "Name": "AC_HB_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HB_skirt_B",
+        "ParentIndex": 743
+    },
+    {
+        "Name": "AC_HFC_L_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HFC_L_skirt_B",
+        "ParentIndex": 745
+    },
+    {
+        "Name": "AC_HFC_R_skirt_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HFC_R_skirt_B",
+        "ParentIndex": 747
+    },
+    {
+        "Name": "AC_R_Obi_A_Ch003",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_L_Obi_A_Ch003",
+        "ParentIndex": 3
+    },
+    {
+        "Name": "AC_acc_hands_Ch015",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LSA_koshinuno_A_Ch015",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LSA_koshinuno_B_Ch015",
+        "ParentIndex": 752
+    },
+    {
+        "Name": "AC_L_coverA_Ch002",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_R_coverA_Ch002",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_L_noSleeve_A",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "AC_L_noSleeve_B",
+        "ParentIndex": 756
+    },
+    {
+        "Name": "AC_R_noSleeve_A",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "AC_R_noSleeve_B",
+        "ParentIndex": 758
+    },
+    {
+        "Name": "AC_hairband_Ch100",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_hairband_A_Ch100",
+        "ParentIndex": 760
+    },
+    {
+        "Name": "AC_R_hairband_A_Ch100",
+        "ParentIndex": 760
+    },
+    {
+        "Name": "AC_acc_HRF_holder_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_acc_HLF_holder_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_acc_L_oosode",
+        "ParentIndex": 10
+    },
+    {
+        "Name": "AC_acc_R_oosode",
+        "ParentIndex": 35
+    },
+    {
+        "Name": "AC_HLF_tied_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_HRF_tied_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_Fur_A_Ch018",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_RSB_koshinuno_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RSB_koshinuno_B",
+        "ParentIndex": 770
+    },
+    {
+        "Name": "AC_RSA_koshinuno_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_L_headband_A_Ch037",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_shoulder_armor",
+        "ParentIndex": 9
+    },
+    {
+        "Name": "AC_L_wp_shooterarm_A_Ch200",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_L_wp_shooterarm_B_Ch200",
+        "ParentIndex": 775
+    },
+    {
+        "Name": "AC_L_wp_shooterarm_C_Ch200",
+        "ParentIndex": 776
+    },
+    {
+        "Name": "AC_L_wp_shooter_Ch200",
+        "ParentIndex": 11
+    },
+    {
+        "Name": "AC_R_shoulder_armor",
+        "ParentIndex": 34
+    },
+    {
+        "Name": "AC_R_wp_shooterarm_A_Ch200",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_R_wp_shooterarm_B_Ch200",
+        "ParentIndex": 780
+    },
+    {
+        "Name": "AC_R_wp_shooterarm_C_Ch200",
+        "ParentIndex": 781
+    },
+    {
+        "Name": "AC_R_wp_shooter_Ch200",
+        "ParentIndex": 36
+    },
+    {
+        "Name": "AC_L_footarmor_Ch200",
+        "ParentIndex": 62
+    },
+    {
+        "Name": "AC_R_footarmor_Ch200",
+        "ParentIndex": 69
+    },
+    {
+        "Name": "AC_hair_A_Ch201",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hair_A_Ch115",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_hair_A_Ch202",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_tyranthorn_A_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_tyranthorn_B_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_tyranthorn_C_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_tyranthorn_D_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_tyranthorn_A_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_tyranthorn_B_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_tyranthorn_C_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_tyranthorn_D_Ch201",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_stole_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_stole_B",
+        "ParentIndex": 797
+    },
+    {
+        "Name": "AC_R_stole_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_stole_B",
+        "ParentIndex": 799
+    },
+    {
+        "Name": "AC_HLF_tied_B",
+        "ParentIndex": 767
+    },
+    {
+        "Name": "AC_HRF_tied_B",
+        "ParentIndex": 768
+    },
+    {
+        "Name": "AC_C_frontHair_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_C_frontHair_B",
+        "ParentIndex": 803
+    },
+    {
+        "Name": "AC_C_assistarm_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_legbase_EX",
+        "ParentIndex": 60
+    },
+    {
+        "Name": "AC_R_legbase_EX",
+        "ParentIndex": 67
+    },
+    {
+        "Name": "AC_L_neckguard_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_L_neckguard_B",
+        "ParentIndex": 808
+    },
+    {
+        "Name": "AC_B_neckguard_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_B_neckguard_B",
+        "ParentIndex": 810
+    },
+    {
+        "Name": "AC_R_neckguard_A",
+        "ParentIndex": 5
+    },
+    {
+        "Name": "AC_R_neckguard_B",
+        "ParentIndex": 812
+    },
+    {
+        "Name": "AC_L_bred_E",
+        "ParentIndex": 270
+    },
+    {
+        "Name": "AC_R_bred_E",
+        "ParentIndex": 274
+    },
+    {
+        "Name": "AC_acc_F_headband_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_acc_F_headband_B",
+        "ParentIndex": 816
+    },
+    {
+        "Name": "AC_acc_RSB_koshinuno_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_acc_RSB_koshinuno_B",
+        "ParentIndex": 818
+    },
+    {
+        "Name": "AC_acc_RSA_koshinuno_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_acc_RSA_koshinuno_B",
+        "ParentIndex": 820
+    },
+    {
+        "Name": "AC_acc_proshand_A_Ch111",
+        "ParentIndex": 12
+    },
+    {
+        "Name": "AC_acc_proshand_B_Ch111",
+        "ParentIndex": 822
+    },
+    {
+        "Name": "AC_L_box_A_Ch204",
+        "ParentIndex": 60
+    },
+    {
+        "Name": "AC_R_box_A_Ch204",
+        "ParentIndex": 67
+    },
+    {
+        "Name": "AC_L_sleeve_A",
+        "ParentIndex": 10
+    },
+    {
+        "Name": "AC_R_sleeve_A",
+        "ParentIndex": 35
+    },
+    {
+        "Name": "AC_LF_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_LF_bred_B",
+        "ParentIndex": 828
+    },
+    {
+        "Name": "AC_LF_bred_C",
+        "ParentIndex": 829
+    },
+    {
+        "Name": "AC_LF_bred_D",
+        "ParentIndex": 830
+    },
+    {
+        "Name": "AC_RF_bred_A",
+        "ParentIndex": 59
+    },
+    {
+        "Name": "AC_RF_bred_B",
+        "ParentIndex": 832
+    },
+    {
+        "Name": "AC_RF_bred_C",
+        "ParentIndex": 833
+    },
+    {
+        "Name": "AC_RF_bred_D",
+        "ParentIndex": 834
+    },
+    {
+        "Name": "AC_L_earphone_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_L_earphone_B",
+        "ParentIndex": 836
+    },
+    {
+        "Name": "AC_L_earphone_C",
+        "ParentIndex": 837
+    },
+    {
+        "Name": "AC_L_earphone_D",
+        "ParentIndex": 838
+    },
+    {
+        "Name": "AC_L_earphone_E",
+        "ParentIndex": 839
+    },
+    {
+        "Name": "AC_L_earphone_F",
+        "ParentIndex": 840
+    },
+    {
+        "Name": "AC_L_earphone_G",
+        "ParentIndex": 841
+    },
+    {
+        "Name": "AC_L_earphone_H",
+        "ParentIndex": 842
+    },
+    {
+        "Name": "AC_L_earphone_I",
+        "ParentIndex": 843
+    },
+    {
+        "Name": "AC_L_earphone_J",
+        "ParentIndex": 844
+    },
+    {
+        "Name": "AC_R_earphone_A",
+        "ParentIndex": 7
+    },
+    {
+        "Name": "AC_R_earphone_B",
+        "ParentIndex": 846
+    },
+    {
+        "Name": "AC_R_earphone_C",
+        "ParentIndex": 847
+    },
+    {
+        "Name": "AC_R_earphone_D",
+        "ParentIndex": 848
+    },
+    {
+        "Name": "AC_R_earphone_E",
+        "ParentIndex": 849
+    },
+    {
+        "Name": "AC_R_earphone_F",
+        "ParentIndex": 850
+    },
+    {
+        "Name": "AC_R_earphone_G",
+        "ParentIndex": 851
+    },
+    {
+        "Name": "AC_R_earphone_H",
+        "ParentIndex": 852
+    },
+    {
+        "Name": "AC_R_earphone_I",
+        "ParentIndex": 853
+    },
+    {
+        "Name": "AC_R_earphone_J",
+        "ParentIndex": 854
+    }
+]
